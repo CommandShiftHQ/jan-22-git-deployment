@@ -1,6 +1,6 @@
-## David Attenborough documentaries
+## David Attenborough Documentaries
 
-- Planet Earth
-- The Blue Planet
 - Frozen Planet
+- The Blue Planet
+- Planet Earth
 - Life
