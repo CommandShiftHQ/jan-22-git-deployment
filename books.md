@@ -4,6 +4,7 @@
 - I Shall Wear Midnight
 - Nightwatch
 - The Bromeliad
+- Smoke and Mirrors
 
 ## Neil Gaiman books
 
