@@ -1,10 +1,12 @@
 ## Terry Pratchett books
+
 - Good Omens
-- The Colour of Magic
+- I Shall Wear Midnight
 - Nightwatch
-- The Fifth Elephant
+- The Bromeliad
 
 ## Neil Gaiman books
+
 - The ocean at the end of the lane
 - Smoke and mirrors
 - Neverwhere
