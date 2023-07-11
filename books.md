@@ -4,7 +4,7 @@
 - I Shall Wear Midnight
 - Nightwatch
 - The Bromeliad
-- More books - I don't read!
+- Smoke and Mirrors
 
 ## Neil Gaiman books
 
